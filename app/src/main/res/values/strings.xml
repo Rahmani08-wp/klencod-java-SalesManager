@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسيير المبيعات</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="catalog">الكتالوج</string>
+    <string name="stock">المخزن</string>
+    <string name="sales">المبيعات</string>
+    <string name="opening_balance">الرصيد الافتتاحي</string>
+    <string name="sections">الأقسام</string>
+
+    <string name="products_count">عدد السلع</string>
+    <string name="total_qty">إجمالي الكمية في المخزن</string>
+    <string name="today_sales">مبيعات اليوم</string>
+    <string name="today_opening">الرصيد الافتتاحي</string>
+    <string name="currency">دج</string>
+
+    <string name="search">بحث عن سلعة…</string>
+    <string name="add_item">إضافة سلعة</string>
+    <string name="edit_item">تعديل السلعة</string>
+    <string name="item_name">اسم السلعة</string>
+    <string name="pick_image">اختيار صورة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="confirm_delete">هل تريد حذف هذه السلعة؟</string>
+    <string name="name_required">أدخل اسم السلعة</string>
+    <string name="image_failed">تعذر تحميل الصورة</string>
+    <string name="add_desc">إضافة سلعة</string>
+
+    <string name="empty_catalog">لا توجد سلع بعد. اضغط على + لإضافة سلعة.</string>
+    <string name="empty_stock">المخزن فارغ. أضف السلع من الكتالوج.</string>
+    <string name="empty_sales">لا توجد سلع متوفرة في المخزن للبيع.</string>
+
+    <string name="quantity">الكمية</string>
+    <string name="price">السعر</string>
+    <string name="edit_stock">تعديل المخزن</string>
+    <string name="sell_item">بيع</string>
+    <string name="confirm_sale">تأكيد البيع</string>
+    <string name="available_fmt">المتوفر في المخزن: %1$d</string>
+    <string name="qty_price_fmt">الكمية: %1$d   |   السعر: %2$s دج</string>
+    <string name="stock_summary_fmt">عدد السلع: %1$d   |   إجمالي الكمية: %2$d</string>
+    <string name="sales_summary_fmt">مبيعات اليوم: %1$s دج</string>
+    <string name="invalid_input">أدخل قيما صحيحة</string>
+    <string name="not_enough">الكمية المطلوبة غير متوفرة في المخزن</string>
+    <string name="sale_done">تم تسجيل البيع</string>
+    <string name="saved">تم الحفظ</string>
+
+    <string name="date">التاريخ</string>
+    <string name="amount">المبلغ</string>
+    <string name="history">السجل</string>
+    <string name="balance_hint">اختر التاريخ ثم أدخل المبلغ واضغط حفظ. عند حفظ نفس التاريخ مرة أخرى يتم تحديث المبلغ.</string>
+    <string name="no_balance">لا توجد أرصدة محفوظة بعد</string>
+</resources>
